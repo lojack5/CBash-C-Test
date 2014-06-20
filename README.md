@@ -1,7 +1,7 @@
 CBash-C-Test
 ============
 
-Simple program for testing CBash's C compatibility.  Provided with a VS 2013 project file.
+Simple program for testing [CBash](https://github.com/lojack5/CBash)'s C compatibility.  Provided with a VS 2013 project file.
 
 To create the your own project file:
  1. Create a new Win32 Console Application, select Empty Project.
