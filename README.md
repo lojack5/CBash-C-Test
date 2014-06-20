@@ -10,6 +10,8 @@ To create the your own project file:
 
 To build:
  1. Copy `CBash.lib` from the CBash output directory to this project's source directory.
+    Alternatively, you could add the CBash output directory to the project's Library Directories.
+
  2. Build
 
 To Run:
